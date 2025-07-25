@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba 👋, Ben nihat</h1>
 <h3 align="center">Ben bir Web geliştiricisiyim</h3>
 
-- 📝Blog site [SoftwareDairy](http://softwaredairy.com/)
+- 📝Blog site [SoftwareDairy](http://nihatbaran.com/)
 
 - 📫 iletişim mail **nihatbaran@protonmail.com**
 
